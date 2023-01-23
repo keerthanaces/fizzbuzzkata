@@ -16,6 +16,7 @@ public class FizzBuzzKataTest extends TestCase
 {
     /**
      *  Rigourous Test :-)
+     *  
      */
     public void testApp()
     {
