@@ -15,7 +15,7 @@ import junit.framework.TestCase;
 public class FizzBuzzKataTest extends TestCase
 {
     /**
-     *  Rigourous Test :-)
+     *  Rigourous Test :-).
      *  
      */
     public void testApp()
