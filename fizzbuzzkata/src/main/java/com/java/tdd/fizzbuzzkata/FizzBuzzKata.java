@@ -19,7 +19,7 @@ public class FizzBuzzKata
     }
 
 	/**
-	 * convertToFizzBuzz method handle logic for FizzBuzzKata program
+	 * convertToFizzBuzz method handle logic for FizzBuzzKata program.
 	 * 
 	 * @param convertFizzBuzzValue
 	 * @return convertedFizzBuzzValue

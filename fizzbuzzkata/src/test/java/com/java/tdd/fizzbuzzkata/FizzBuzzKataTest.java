@@ -27,8 +27,7 @@ public class FizzBuzzKataTest extends TestCase
         assertEquals("FizzBuzz", FizzBuzzKata.convertToFizzBuzz(15));
         assertEquals("19", FizzBuzzKata.convertToFizzBuzz(19));
         assertEquals("Fizz", FizzBuzzKata.convertToFizzBuzz(21));
-       
-        assertEquals("22", FizzBuzzKata.convertToFizzBuzz(21));
+        assertEquals("22", FizzBuzzKata.convertToFizzBuzz(22));
         
     }
 }
