@@ -1,4 +1,4 @@
-package com.java.tdd.fizzbuzzkata;
+package com.fizzbuzzkata.tdddemo;
 
 /**
  * FizzBuzzKata class performs following logic Write a program that prints one

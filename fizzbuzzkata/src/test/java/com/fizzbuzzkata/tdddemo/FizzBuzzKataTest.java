@@ -1,4 +1,5 @@
-package com.java.tdd.fizzbuzzkata;
+package com.fizzbuzzkata.tdddemo;
+
 
 import junit.framework.TestCase;
 
